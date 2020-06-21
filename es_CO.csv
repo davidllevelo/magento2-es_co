@@ -1991,9 +1991,9 @@ Role,Rol,module,Magento_Catalog
 "Compare Products","Comparar artículos",module,Magento_Catalog
 "Print This Page","Imprimir esta página",module,Magento_Catalog
 "Remove Product","Eliminar artículo",module,Magento_Catalog
-"Add to Cart","Agregar al Carrito",module,Magento_Catalog
+"Add to Cart","Llévelo",module,Magento_Catalog
 "In stock","En stock",module,Magento_Catalog
-"Out of stock","Sin stock",module,Magento_Catalog
+"Out of stock","Agotado",module,Magento_Catalog
 "Add to Wish List","Añadir a lista de deseos",module,Magento_Catalog
 "You have no items to compare.","No tiene artículos para comparar.",module,Magento_Catalog
 "Remove This Item","Eliminar este artículo",module,Magento_Catalog
@@ -2796,7 +2796,7 @@ Total:,Total:,module,Magento_Checkout
 "Sign In","Iniciar sesión",module,Magento_Checkout
 "Email Address","Correo Electrónico",module,Magento_Checkout
 Password,Contraseña,module,Magento_Checkout
-"Forgot Your Password?","¿Olvidaste tu contraseña?",module,Magento_Checkout
+"Forgot Your Password?","¿Olvidó su contraseña?"
 "My billing and shipping address are the same","Mi direcciónes de facturación y de envío son las mismas",module,Magento_Checkout
 Update,Actualizar,module,Magento_Checkout
 Cancel,Cancelar,module,Magento_Checkout
@@ -8652,7 +8652,7 @@ Add,Agregar,module,Magento_Rma
 Items,Items,module,Magento_Rma
 "Return Items",Devoluciones,module,Magento_Rma
 Product,Producto,module,Magento_Rma
-SKU,SKU,module,Magento_Rma
+SKU,ID,module,Magento_Rma
 Remaining,Restantes,module,Magento_Rma
 Requested,Solicitado,module,Magento_Rma
 Authorized,Autorizado,module,Magento_Rma
@@ -11590,7 +11590,7 @@ Store,Tienda,module,Magento_Theme
 "Store View","Vista de la tienda",module,Magento_Theme
 "Skip to Content","Ir al contenido",module,Magento_Theme
 Menu,Menú,module,Magento_Theme
-Account,Cuenta,module,Magento_Theme
+Account,Cuenta
 Settings,Configuraciones,module,Magento_Theme
 "2 columns with left bar","2 columnas con barra izquierda",module,Magento_Theme
 "2 columns with right bar","2 columnas con barra derecha",module,Magento_Theme
@@ -12859,3 +12859,43 @@ Footer,"Pie de página",theme,frontend/Magento/luma
 "Account Dashboard","Tablero de la cuenta",theme,frontend/Magento/luma
 "Address Book","Libreta de direcciones",theme,frontend/Magento/luma
 "Account Information","Información de la cuenta",theme,frontend/Magento/luma
+"Quick View","Vista rápida"
+"Add Wish List","Añadir a lista de deseos"
+"Add Compare","Añadir para comparar"
+"Upsell Products","Productos de gama alta"
+"Share it:","Compartir:"
+"Share on Facebook","Compartir en Facebook"
+facebook,facebook
+"Share on Twitter","Compartir en Twitter"
+twitter,twitter
+"Pin this","Compartir en Pinterest"
+pinterest,pinterest
+"Share on LinkedIn","Compartir en LinkedIn"
+linkedin,linkedin
+"Hurry Up!","Apúrese!"
+"Special Offers.","Oferta especial."
+"Already Sold","Agotado"
+Cart,Carrito
+"Get in touch with us","Contáctenos"
+"If you have any question, Please don’t hesitate to send us a message","Si tiene alguna pregunta, pregunte con toda tranquilidad"
+"Welcome to","Bienvenido a"
+Expert,Experto
+"Want to score","Lo que va a calificar"
+"25% Off","15% de descuento en"
+"Your First Purchase","su primera compra"
+"Simple Enter your Email below you’ll also be First to hear about Promotion Specials, And the Latset new Arrivals","Simplemente ingrese su correo aquí abajito. También le estaré informando sobre las ultimas promisiones y productos nuevos."
+"*Offer vaild for new email subscribes on fisrt purchase only. Code not vaild on personalized, sale, or promotional pieces","*Oferta valida únicamente para su primera comprita. No aplica para artículos que ya se encuentran rebajados."
+"Don’t show this popup again","No me muestre este recuadro nuevamente."
+"Subscribe our Newsletter","Suscríbase a nuestra boletín"
+Get,"Obtenga un"
+"first purchase!","primera compra!"
+"Enter your email","Ingrese su correo electrónico"
+Language:,Lenguaje:
+"Hello %s!","¡Buenas %s!"
+"Hello! Sign in","¡Buenas veci!"
+item(s),artículo(s)
+"Read more","Leer más"
+"View More","Ver más"
+"See all %s","Ver todo %s"
+"Registered Customer","Clientes registrados"
+Timer,Temporizador

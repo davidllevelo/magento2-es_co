@@ -1,10 +1,10 @@
 {
-  "name": "saulmoralespa/magento2-es_co",
+  "name": "llevelo/magento2-es_co",
   "description": "Spanish (español Colombia) language for magento 2",
   "authors": [
     {
       "name": "Saul Morales",
-      "email": "info@saulmoralespa.com"
+      "email": "info@llevelo.com"
     }
   ],
   "type": "magento2-language",

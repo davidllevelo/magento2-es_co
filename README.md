@@ -7,7 +7,7 @@ Spanish (español Colombia) language for magento 2
 Use composer package manager
 
 ```bash
-composer require saulmoralespa/magento2-es_co
+composer require llevelo/magento2-es_co
 ```
 
 Execute the commands
