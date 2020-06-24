@@ -181,7 +181,7 @@ Item,Elemento,module,Magento_AdvancedCheckout
 Edit,Editar,module,Magento_AdvancedCheckout
 "Remove item","Eliminar artículo",module,Magento_AdvancedCheckout
 "Products Requiring Attention","Artículos que requieren su atención",module,Magento_AdvancedCheckout
-"Add to Cart","Agregar al Carrito",module,Magento_AdvancedCheckout
+"Add to Cart","Llévelo",module,Magento_AdvancedCheckout
 Sku,Sku,module,Magento_AdvancedCheckout
 File,Archivo,module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","Extensiones de archivo permitidas: .CSV",module,Magento_AdvancedCheckout
@@ -1337,7 +1337,7 @@ Invoiced,Facturado,module,Magento_Bundle
 Shipped,Enviado,module,Magento_Bundle
 Refunded,Reembolsado,module,Magento_Bundle
 Canceled,Cancelado,module,Magento_Bundle
-"As low as","Valor mínimo",module,Magento_Bundle
+"As low as","Desde",module,Magento_Bundle
 "Regular Price","Precio habitual",module,Magento_Bundle
 From,De,module,Magento_Bundle
 To,Para,module,Magento_Bundle
@@ -1844,7 +1844,7 @@ Search,Buscar,module,Magento_Catalog
 "Multiple Select","Selección múltiple",module,Magento_Catalog
 Dropdown,"Lista desplegable",module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 no se extiende a \Magento\Framework\Filter\Template",module,Magento_Catalog
-"As low as","Valor mínimo",module,Magento_Catalog
+"As low as","Desde",module,Magento_Catalog
 test,prueba,module,Magento_Catalog
 "Could not get extension attributes","No se pudo obtener los atributos de extensión",module,Magento_Catalog
 message,mensaje,module,Magento_Catalog
@@ -2202,7 +2202,7 @@ Overview,Resumen,module,Magento_Catalog
 "Skip to the beginning of the images gallery","Saltar al comienzo de la galería de imágenes",module,Magento_Catalog
 Details,Detalles,module,Magento_Catalog
 "Recently Compared","Comparados recientemente",module,Magento_Catalog
-"Add To Cart","Agregar al Carrito",module,Magento_Catalog
+"Add To Cart","Llévelo",module,Magento_Catalog
 "Add To Compare","Añadir para comparar",module,Magento_Catalog
 "Learn more","Aprenda más",module,Magento_Catalog
 "Recently Viewed","Vistos recientemente",module,Magento_Catalog
@@ -2377,7 +2377,7 @@ Stock,Stock,module,Magento_CatalogInventory
 "Category Permissions","Permisos de categoría",module,Magento_CatalogPermissions
 "Browsing Category","Navegando por categoría",module,Magento_CatalogPermissions
 "Display Product Prices","Mostrar precios de los artículos",module,Magento_CatalogPermissions
-"Add to Cart","Agregar al Carrito",module,Magento_CatalogPermissions
+"Add to Cart","Llévelo",module,Magento_CatalogPermissions
 "Yes, for Everyone","Sí, para todos",module,Magento_CatalogPermissions
 "Yes, for Specified Customer Groups","Sí, para grupos de clientes especificados",module,Magento_CatalogPermissions
 No,No,module,Magento_CatalogPermissions
@@ -2669,7 +2669,7 @@ Websites,"Sitios web",module,Magento_CatalogStaging
 "Product Attribute","Atributos del artículo",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
 "Please choose a condition to add.","Por favor, elige una condición para añadir.",module,Magento_CatalogWidget
-"Add to Cart","Agregar al Carrito",module,Magento_CatalogWidget
+"Add to Cart","Llévelo",module,Magento_CatalogWidget
 "In stock","En stock",module,Magento_CatalogWidget
 "Out of stock","Sin stock",module,Magento_CatalogWidget
 "Add to Wish List","Añadir a la Lista de Deseos",module,Magento_CatalogWidget
@@ -2775,7 +2775,7 @@ Edit,Editar,module,Magento_Checkout
 "Excl. Tax","Impuestos no incluídos",module,Magento_Checkout
 Loading...,Cargando...,module,Magento_Checkout
 "Order #","Pedido #",module,Magento_Checkout
-"Proceed to Checkout","Pasar por caja",module,Magento_Checkout
+"Proceed to Checkout","Llévelo",module,Magento_Checkout
 "Product Name","Nombre del Producto",module,Magento_Checkout
 "Incl. Tax","Incl. impuestos",module,Magento_Checkout
 "Your order number is: %1.","Su número de pedido es: %1.",module,Magento_Checkout
@@ -2812,7 +2812,7 @@ Remove,Quitar,module,Magento_Checkout
 "Payment Information","Información de pago",module,Magento_Checkout
 "No Payment method available.","Ningún método de pago está disponible.",module,Magento_Checkout
 "You can track your order status by creating an account.","Puede hacer un seguimiento de su orden mediante la creación de una cuenta.",module,Magento_Checkout
-"Place Order","Realizar pedido",module,Magento_Checkout
+"Place Order","Llévelo",module,Magento_Checkout
 "Forgot an Item?","¿Ha olvidado un elemento?",module,Magento_Checkout
 "Edit Your Cart","Editar carrito",module,Magento_Checkout
 "Ship Here","Entregar aquí",module,Magento_Checkout
@@ -3867,7 +3867,7 @@ Save,Guardar,module,Magento_Customer
 "Registered Customers","Clientes registrados",module,Magento_Customer
 "If you have an account, sign in with your email address.","Si tiene una cuenta, inicie sesión con su dirección de correo electrónico.",module,Magento_Customer
 Password,Contraseña,module,Magento_Customer
-"Forgot Your Password?","¿Olvidaste tu contraseña?",module,Magento_Customer
+"Forgot Your Password?","¿Olvidó su contraseña?",module,Magento_Customer
 "Subscription option","Opciones de suscripción",module,Magento_Customer
 "General Subscription","Suscripción general",module,Magento_Customer
 "Sign Up for Newsletter","Suscribirse al boletín",module,Magento_Customer
@@ -4126,7 +4126,7 @@ None,Ninguno,module,Magento_CustomerCustomAttributes
 "Maximum Image Width (px)","Anchura de imagen máxima (px)",module,Magento_CustomerCustomAttributes
 "Maximum Image Height (px)","Altura de imagen máxima (px)",module,Magento_CustomerCustomAttributes
 "Input/Output Filter","Filtro de entrada/salida",module,Magento_CustomerCustomAttributes
-"Minimal value","Valor mínimo",module,Magento_CustomerCustomAttributes
+"Minimal value","Desde",module,Magento_CustomerCustomAttributes
 "Maximum value","Valor máximo",module,Magento_CustomerCustomAttributes
 "Add to Column Options","Añadir a las opciones de columna",module,Magento_CustomerCustomAttributes
 "Select ""Yes"" to add this attribute to the list of column options in the customer grid.","Seleccione ""Sí"" para agregar este atributo a la lista de opciones de la columna en la cuadrícula de producto.",module,Magento_CustomerCustomAttributes
@@ -5682,7 +5682,7 @@ View,Ver,module,Magento_GiftRegistry
 "Search By","Buscar por",module,Magento_GiftRegistry
 "Please enter at least two letters.","Por favor introduzca al menos dos letras.",module,Magento_GiftRegistry
 "Unit Price","Precio Unitario",module,Magento_GiftRegistry
-"Add to Cart","Agregar al Carrito",module,Magento_GiftRegistry
+"Add to Cart","Llévelo",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","Registro de regalo creado en %store_name",module,Magento_GiftRegistry
 "%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","Has creado el nuevo registro de regalo ""% registry_name"".",module,Magento_GiftRegistry
@@ -6524,7 +6524,7 @@ Database,"Base de datos",module,Magento_MediaStorage
 "You will see the order total before you submit the order.","Podrás ver el total de la orden antes de enviar el pedido.",module,Magento_Msrp
 Price,Precio,module,Magento_Msrp
 "Actual Price","Precio actual",module,Magento_Msrp
-"Add to Cart","Agregar al Carrito",module,Magento_Msrp
+"Add to Cart","Llévelo",module,Magento_Msrp
 "Minimum Advertised Price","Precio mínimo anunciado",module,Magento_Msrp
 "Enable MAP","Habilitar MAP",module,Magento_Msrp
 "Display Actual Price","Mostrar precio actual",module,Magento_Msrp
@@ -6562,7 +6562,7 @@ ZIP,C.P,module,Magento_MultipleLocationInventory
 Status,Estado,module,Magento_MultipleLocationInventory
 Phone,Teléfono,module,Magento_MultipleLocationInventory
 Fax,Fax,module,Magento_MultipleLocationInventory
-Wishlist,"Lista de deseos",module,Magento_MultipleWishlist
+Wishlist,"Tus deseos",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Informe de lista de deseos del cliente",module,Magento_MultipleWishlist
 "My Wish Lists","Mis listas de deseos",module,Magento_MultipleWishlist
 "1 item in wish list","1 artículo en lista de deseos",module,Magento_MultipleWishlist
@@ -6632,7 +6632,7 @@ Name,Nombre,module,Magento_MultipleWishlist
 Updated,Actualizado,module,Magento_MultipleWishlist
 "Wish List Items","Elementos de la lista de deseos",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","Debe seleccionar elementos a añadir al carrito.",module,Magento_MultipleWishlist
-"Add to Cart","Agregar al Carrito",module,Magento_MultipleWishlist
+"Add to Cart","Llévelo",module,Magento_MultipleWishlist
 Back,Volver,module,Magento_MultipleWishlist
 "Add to:","Añadir a:",module,Magento_MultipleWishlist
 "Create New Wish List","Crear nueva lista de deseos",module,Magento_MultipleWishlist
@@ -8032,7 +8032,7 @@ found,encontrado,module,Magento_Reminder
 "Total shopping cart items quantity %1 %2:","Total compras carrito artículos cantidad %1 %2:",module,Magento_Reminder
 "Virtual Only","Virtual únicamente",module,Magento_Reminder
 "Shopping cart %1 only virtual items","Artículos sólo virtuales de la %1 carrito de compras",module,Magento_Reminder
-"Wish List","Lista de deseos",module,Magento_Reminder
+"Wish List","Tus deseos",module,Magento_Reminder
 "Shopping Cart","Carrito de Compras",module,Magento_Reminder
 "The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","La lista de deseos no es vacía y abandonada %1 %2 días y %3 de la coincidencia de estas condiciones:",module,Magento_Reminder
 "The root wish list condition should have a days value of 1 or greater.","La condición de lista de deseos de raíz debe tener un valor de días de 1 o mayor.",module,Magento_Reminder
@@ -8242,7 +8242,7 @@ Error,Error,module,Magento_Reports
 "Show Report For:","Ver informe de:",module,Magento_Reports
 "All Websites","Todos los sitios web",module,Magento_Reports
 "Recently Viewed","Recientemente han consultado",module,Magento_Reports
-"Add to Cart","Agregar al Carrito",module,Magento_Reports
+"Add to Cart","Llévelo",module,Magento_Reports
 "In stock","En stock",module,Magento_Reports
 "Out of stock","Sin stock",module,Magento_Reports
 "Add to Wish List","Añadir a lista de deseos",module,Magento_Reports
@@ -9073,7 +9073,7 @@ Quantity,Cantidad,module,Magento_Sales
 "Recently Viewed Products","Artículos vistos recientemente",module,Magento_Sales
 "Last Ordered Items","Últimos artículos pedidos",module,Magento_Sales
 "Recently Viewed","Vistos recientemente",module,Magento_Sales
-"Wish List","Lista de deseos",module,Magento_Sales
+"Wish List","Tus deseos",module,Magento_Sales
 "Please select a store","Por favor, seleccione una tienda",module,Magento_Sales
 "Order Totals","Totales del pedido",module,Magento_Sales
 "Shipping Incl. Tax (%1)","Envío incluido impuestos (%1)",module,Magento_Sales
@@ -9656,7 +9656,7 @@ Close,Cerrar,module,Magento_Sales
 "View All","Ver todo",module,Magento_Sales
 "Gift Message for This Order","Mensaje de regalo para este pedido",module,Magento_Sales
 "Recently Ordered","Recientemente ordenado",module,Magento_Sales
-"Add to Cart","Agregar al Carrito",module,Magento_Sales
+"Add to Cart","Llévelo",module,Magento_Sales
 Search,Buscar,module,Magento_Sales
 "Credit memo for your %store_name order","Credit memo para su orden en %store_name",module,Magento_Sales
 "%name,","%nombre,",module,Magento_Sales
@@ -12053,7 +12053,7 @@ username,usuario,module,Magento_User
 "Email address","Dirección de correo electrónico",module,Magento_User
 "Retrieve Password","Recuperar contraseña",module,Magento_User
 "Back to Sign in","Volver a iniciar sesión",module,Magento_User
-"Forgot your password?","¿Olvidaste tu contraseña?",module,Magento_User
+"Forgot your password?","¿Olvidó su contraseña?",module,Magento_User
 "Reset a Password","Reinicializar contraseña",module,Magento_User
 "Confirm New Password","Confirmar contraseña nueva",module,Magento_User
 "Reset Password","Restablecer contraseña",module,Magento_User
@@ -12688,7 +12688,7 @@ LocalizedException,"Excepción localizada",module,Magento_Wishlist
 "Add to Wish List","Añadir a la Lista de Deseos",module,Magento_Wishlist
 "View Product","Ver Producto",module,Magento_Wishlist
 Qty,Cantidad,module,Magento_Wishlist
-"Add to Cart","Agregar al Carrito",module,Magento_Wishlist
+"Add to Cart","Llévelo",module,Magento_Wishlist
 Availability,Disponibilidad,module,Magento_Wishlist
 "In stock","En stock",module,Magento_Wishlist
 "Out of stock","Sin stock",module,Magento_Wishlist
@@ -12860,7 +12860,7 @@ Footer,"Pie de página",theme,frontend/Magento/luma
 "Address Book","Libreta de direcciones",theme,frontend/Magento/luma
 "Account Information","Información de la cuenta",theme,frontend/Magento/luma
 "Quick View","Vista rápida"
-"Add Wish List","Añadir a lista de deseos"
+"Add Wish List","Añadir a la Lista de Deseos"
 "Add Compare","Añadir para comparar"
 "Upsell Products","Productos de gama alta"
 "Share it:","Compartir:"
@@ -12888,14 +12888,14 @@ Expert,Experto
 "Don’t show this popup again","No me muestre este recuadro nuevamente."
 "Subscribe our Newsletter","Suscríbase a nuestra boletín"
 Get,"Obtenga un"
-"first purchase!","primera compra!"
+"first purchase!","su primera compra!"
 "Enter your email","Ingrese su correo electrónico"
 Language:,Lenguaje:
 "Hello %s!","¡Buenas %s!"
-"Hello! Sign in","¡Buenas veci!"
-item(s),artículo(s)
+"Hello! Sign in","¡Siga!"
+item(s), " artículo(s)"
 "Read more","Leer más"
 "View More","Ver más"
-"See all %s","Ver todo %s"
+"See all %s","Ver todo los %s"
 "Registered Customer","Clientes registrados"
 Timer,Temporizador
