@@ -12900,8 +12900,10 @@ item(s), " artículo(s)"
 "Registered Customer","Clientes registrados"
 Timer,Temporizador
 "All Categories", "Categorías"
-"Search here...", "Qué busca?"
+"Search here...", "¿Qué busca?"
 "You added %1 product to your shopping cart.","Ha agregado %1 a su carrito de compra."
+"You added", "Ha agregado"
+"to your shopping cart.","a su carrito de compra."
 "View Cart", "Ver mi carrito de compra",
-"Item in Cart", "Artículos en su carrito"
+"Item in Cart", "artículo(s) en su carrito"
 
