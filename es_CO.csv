@@ -807,7 +807,7 @@ Admin,Administrador,module,Magento_Backend
 "Forgot Password Email Template","Contraseña olvidada Plantilla de Email",module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegido basado en suplencia de tema cuando está seleccionada la opción ""Predeterminado"".",module,Magento_Backend
 "Forgot and Reset Email Sender","Olvido y Restablecer Correo Electrónico del Remitente",module,Magento_Backend
-"Startup Page","Página de inicio",module,Magento_Backend
+"Startup Page","Inicio",module,Magento_Backend
 "Admin Base URL","Admin dirección URL básica",module,Magento_Backend
 "Use Custom Admin URL","Utilizar URL de administración personalizada",module,Magento_Backend
 "Custom Admin URL","URL de administración personalizada",module,Magento_Backend
@@ -6562,7 +6562,7 @@ ZIP,C.P,module,Magento_MultipleLocationInventory
 Status,Estado,module,Magento_MultipleLocationInventory
 Phone,Teléfono,module,Magento_MultipleLocationInventory
 Fax,Fax,module,Magento_MultipleLocationInventory
-Wishlist,"Tus deseos",module,Magento_MultipleWishlist
+Wishlist,"Sus deseos",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Informe de lista de deseos del cliente",module,Magento_MultipleWishlist
 "My Wish Lists","Mis listas de deseos",module,Magento_MultipleWishlist
 "1 item in wish list","1 artículo en lista de deseos",module,Magento_MultipleWishlist
@@ -7610,7 +7610,7 @@ Manage,Gestionar,module,Magento_Paypal
 "Publisher ID","ID de editor",module,Magento_Paypal
 "Required to display a banner","Necesario para mostrar un banner",module,Magento_Paypal
 "Get Publisher ID from PayPal","Obtenga la ID del editor de PayPal",module,Magento_Paypal
-"Home Page","Página de inicio",module,Magento_Paypal
+"Home Page","Inicio",module,Magento_Paypal
 Display,Mostrar,module,Magento_Paypal
 Position,Posición,module,Magento_Paypal
 Size,Tamaño,module,Magento_Paypal
@@ -8032,7 +8032,7 @@ found,encontrado,module,Magento_Reminder
 "Total shopping cart items quantity %1 %2:","Total compras carrito artículos cantidad %1 %2:",module,Magento_Reminder
 "Virtual Only","Virtual únicamente",module,Magento_Reminder
 "Shopping cart %1 only virtual items","Artículos sólo virtuales de la %1 carrito de compras",module,Magento_Reminder
-"Wish List","Tus deseos",module,Magento_Reminder
+"Wish List","Sus deseos",module,Magento_Reminder
 "Shopping Cart","Carrito de Compras",module,Magento_Reminder
 "The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","La lista de deseos no es vacía y abandonada %1 %2 días y %3 de la coincidencia de estas condiciones:",module,Magento_Reminder
 "The root wish list condition should have a days value of 1 or greater.","La condición de lista de deseos de raíz debe tener un valor de días de 1 o mayor.",module,Magento_Reminder
@@ -9073,7 +9073,7 @@ Quantity,Cantidad,module,Magento_Sales
 "Recently Viewed Products","Artículos vistos recientemente",module,Magento_Sales
 "Last Ordered Items","Últimos artículos pedidos",module,Magento_Sales
 "Recently Viewed","Vistos recientemente",module,Magento_Sales
-"Wish List","Tus deseos",module,Magento_Sales
+"Wish List","Sus deseos",module,Magento_Sales
 "Please select a store","Por favor, seleccione una tienda",module,Magento_Sales
 "Order Totals","Totales del pedido",module,Magento_Sales
 "Shipping Incl. Tax (%1)","Envío incluido impuestos (%1)",module,Magento_Sales
@@ -9294,7 +9294,7 @@ Sales,Ventas,module,Magento_Sales
 "We can't update the transaction details.","No podemos actualizar los datos de la transacción.",module,Magento_Sales
 "Orders and Returns","Pedidos y devoluciones",module,Magento_Sales
 "You entered incorrect data. Please try again.","Había ingresado datos incorrectos. Por favor, inténtelo de nuevo.",module,Magento_Sales
-Home,"Página de inicio",module,Magento_Sales
+Home,"Inicio",module,Magento_Sales
 "Go to Home Page","Ir a inicio",module,Magento_Sales
 "We can't find this wish list.","No podemos encontrar los favoritos.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","No pudimos añadir un producto a la cesta por el ID ""%1"".",module,Magento_Sales
@@ -9678,7 +9678,7 @@ Search,Buscar,module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Una vez que el paquete sea enviado le enviaremos un número de rastreo.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Su orden <span class=""no-link""> #%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Creada el <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Una vez que su paquete incluye le enviaremos un correo electrónico con un enlace al seguimiento de su pedido.",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Una vez que su paquete se envíe le enviaremos un correo electrónico con un enlace al seguimiento de su pedido.",module,Magento_Sales
 "Update to your %store_name order","Actualizar su orden en %store_name",module,Magento_Sales
 "Your %store_name order has shipped","Se ha enviado su orden de %store_name",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","La confirmación de su envío está abajo. Gracias otra vez por su compra.",module,Magento_Sales
@@ -12311,7 +12311,7 @@ Update,Actualizar,module,Magento_VersionsCms
 "Page ID","ID de página",module,Magento_VersionsCms
 "Manage Hierarchies","Administrar Jerarquías",module,Magento_VersionsCms
 Hierarchy,Jerarquía,module,Magento_VersionsCms
-Home,"Página de inicio",module,Magento_VersionsCms
+Home,"Inicio",module,Magento_VersionsCms
 "Go to Home Page","Ir a inicio",module,Magento_VersionsCms
 "You copied the pages hierarchy to the selected scopes.","Copió la jerarquía de páginas en los ámbitos seleccionados.",module,Magento_VersionsCms
 "Something went wrong while copying the hierarchy.","Algo salió mal al copiar la jerarquía.",module,Magento_VersionsCms
@@ -12517,7 +12517,7 @@ Message,Mensaje,module,Magento_Webapi
 "To landing page (302 Found)","A la página de aterrizaje (302 Found)",module,Magento_WebsiteRestriction
 "Access Restriction","Restricción de acceso",module,Magento_WebsiteRestriction
 "Restriction Mode","Modo de restricción",module,Magento_WebsiteRestriction
-"Startup Page","Página de inicio",module,Magento_WebsiteRestriction
+"Startup Page","Inicio",module,Magento_WebsiteRestriction
 "Applicable only if restriction mode is set to ""Private Sales"".","Aplicable sólo si el modo de restricción se establece en ""Ventas privadas"".",module,Magento_WebsiteRestriction
 "Landing Page","Página de destino",module,Magento_WebsiteRestriction
 "HTTP Response","Respuesta HTTP",module,Magento_WebsiteRestriction
@@ -12833,7 +12833,7 @@ Footer,"Pie de página",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horas de operación:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Nota de crédito para su orden en %store_name",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Gracias por su orden de %store_name.",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Gracias por su orden en %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Puede comprobar el estado de su pedido <a href=""%account_url"">accediendo a su cuenta</a>.",theme,frontend/Magento/luma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si tiene alguna consulta sobre el mismo puede enviarnos un email a <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Su factura rectificada #%creditmemo_id para el pedido # %order_id",theme,frontend/Magento/luma
@@ -12899,3 +12899,9 @@ item(s), " artículo(s)"
 "See all %s","Ver todo los %s"
 "Registered Customer","Clientes registrados"
 Timer,Temporizador
+"All Categories", "Categorías"
+"Search here...", "Qué busca?"
+"You added %1 product to your shopping cart.","Ha agregado %1 a su carrito de compra."
+"View Cart", "Ver mi carrito de compra",
+"Item in Cart", "Artículos en su carrito"
+
