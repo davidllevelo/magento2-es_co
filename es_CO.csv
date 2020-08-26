@@ -181,7 +181,7 @@ Item,Elemento,module,Magento_AdvancedCheckout
 Edit,Editar,module,Magento_AdvancedCheckout
 "Remove item","Eliminar artículo",module,Magento_AdvancedCheckout
 "Products Requiring Attention","Artículos que requieren su atención",module,Magento_AdvancedCheckout
-"Add to Cart","Llévelo",module,Magento_AdvancedCheckout
+"Add to Cart","Añadir al carrito",module,Magento_AdvancedCheckout
 Sku,Sku,module,Magento_AdvancedCheckout
 File,Archivo,module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","Extensiones de archivo permitidas: .CSV",module,Magento_AdvancedCheckout
@@ -1991,7 +1991,7 @@ Role,Rol,module,Magento_Catalog
 "Compare Products","Comparar artículos",module,Magento_Catalog
 "Print This Page","Imprimir esta página",module,Magento_Catalog
 "Remove Product","Eliminar artículo",module,Magento_Catalog
-"Add to Cart","Llévelo",module,Magento_Catalog
+"Add to Cart","Añadir al carrito",module,Magento_Catalog
 "In stock","En stock",module,Magento_Catalog
 "Out of stock","Agotado",module,Magento_Catalog
 "Add to Wish List","Añadir a lista de deseos",module,Magento_Catalog
@@ -2202,7 +2202,7 @@ Overview,Resumen,module,Magento_Catalog
 "Skip to the beginning of the images gallery","Saltar al comienzo de la galería de imágenes",module,Magento_Catalog
 Details,Detalles,module,Magento_Catalog
 "Recently Compared","Comparados recientemente",module,Magento_Catalog
-"Add To Cart","Llévelo",module,Magento_Catalog
+"Add To Cart","Añadir al carrito",module,Magento_Catalog
 "Add To Compare","Añadir para comparar",module,Magento_Catalog
 "Learn more","Aprenda más",module,Magento_Catalog
 "Recently Viewed","Vistos recientemente",module,Magento_Catalog
@@ -2377,7 +2377,7 @@ Stock,Stock,module,Magento_CatalogInventory
 "Category Permissions","Permisos de categoría",module,Magento_CatalogPermissions
 "Browsing Category","Navegando por categoría",module,Magento_CatalogPermissions
 "Display Product Prices","Mostrar precios de los artículos",module,Magento_CatalogPermissions
-"Add to Cart","Llévelo",module,Magento_CatalogPermissions
+"Add to Cart","Añadir al carrito",module,Magento_CatalogPermissions
 "Yes, for Everyone","Sí, para todos",module,Magento_CatalogPermissions
 "Yes, for Specified Customer Groups","Sí, para grupos de clientes especificados",module,Magento_CatalogPermissions
 No,No,module,Magento_CatalogPermissions
@@ -2669,7 +2669,7 @@ Websites,"Sitios web",module,Magento_CatalogStaging
 "Product Attribute","Atributos del artículo",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
 "Please choose a condition to add.","Por favor, elige una condición para añadir.",module,Magento_CatalogWidget
-"Add to Cart","Llévelo",module,Magento_CatalogWidget
+"Add to Cart","Añadir al carrito",module,Magento_CatalogWidget
 "In stock","En stock",module,Magento_CatalogWidget
 "Out of stock","Sin stock",module,Magento_CatalogWidget
 "Add to Wish List","Añadir a la Lista de Deseos",module,Magento_CatalogWidget
@@ -2775,7 +2775,7 @@ Edit,Editar,module,Magento_Checkout
 "Excl. Tax","Impuestos no incluídos",module,Magento_Checkout
 Loading...,Cargando...,module,Magento_Checkout
 "Order #","Pedido #",module,Magento_Checkout
-"Proceed to Checkout","Llévelo",module,Magento_Checkout
+"Proceed to Checkout","Proceeder al pago",module,Magento_Checkout
 "Product Name","Nombre del Producto",module,Magento_Checkout
 "Incl. Tax","Incl. impuestos",module,Magento_Checkout
 "Your order number is: %1.","Su número de pedido es: %1.",module,Magento_Checkout
@@ -2812,7 +2812,7 @@ Remove,Quitar,module,Magento_Checkout
 "Payment Information","Información de pago",module,Magento_Checkout
 "No Payment method available.","Ningún método de pago está disponible.",module,Magento_Checkout
 "You can track your order status by creating an account.","Puede hacer un seguimiento de su orden mediante la creación de una cuenta.",module,Magento_Checkout
-"Place Order","Llévelo",module,Magento_Checkout
+"Place Order","Confirmar orden",module,Magento_Checkout
 "Forgot an Item?","¿Ha olvidado un elemento?",module,Magento_Checkout
 "Edit Your Cart","Editar carrito",module,Magento_Checkout
 "Ship Here","Entregar aquí",module,Magento_Checkout
@@ -5682,7 +5682,7 @@ View,Ver,module,Magento_GiftRegistry
 "Search By","Buscar por",module,Magento_GiftRegistry
 "Please enter at least two letters.","Por favor introduzca al menos dos letras.",module,Magento_GiftRegistry
 "Unit Price","Precio Unitario",module,Magento_GiftRegistry
-"Add to Cart","Llévelo",module,Magento_GiftRegistry
+"Add to Cart","Añadir al carito",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","Registro de regalo creado en %store_name",module,Magento_GiftRegistry
 "%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","Has creado el nuevo registro de regalo ""% registry_name"".",module,Magento_GiftRegistry
@@ -6524,7 +6524,7 @@ Database,"Base de datos",module,Magento_MediaStorage
 "You will see the order total before you submit the order.","Podrás ver el total de la orden antes de enviar el pedido.",module,Magento_Msrp
 Price,Precio,module,Magento_Msrp
 "Actual Price","Precio actual",module,Magento_Msrp
-"Add to Cart","Llévelo",module,Magento_Msrp
+"Add to Cart","Añadir al carrito",module,Magento_Msrp
 "Minimum Advertised Price","Precio mínimo anunciado",module,Magento_Msrp
 "Enable MAP","Habilitar MAP",module,Magento_Msrp
 "Display Actual Price","Mostrar precio actual",module,Magento_Msrp
@@ -6632,7 +6632,7 @@ Name,Nombre,module,Magento_MultipleWishlist
 Updated,Actualizado,module,Magento_MultipleWishlist
 "Wish List Items","Elementos de la lista de deseos",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","Debe seleccionar elementos a añadir al carrito.",module,Magento_MultipleWishlist
-"Add to Cart","Llévelo",module,Magento_MultipleWishlist
+"Add to Cart","Añadir al carrito",module,Magento_MultipleWishlist
 Back,Volver,module,Magento_MultipleWishlist
 "Add to:","Añadir a:",module,Magento_MultipleWishlist
 "Create New Wish List","Crear nueva lista de deseos",module,Magento_MultipleWishlist
@@ -8242,7 +8242,7 @@ Error,Error,module,Magento_Reports
 "Show Report For:","Ver informe de:",module,Magento_Reports
 "All Websites","Todos los sitios web",module,Magento_Reports
 "Recently Viewed","Recientemente han consultado",module,Magento_Reports
-"Add to Cart","Llévelo",module,Magento_Reports
+"Add to Cart","Añadir al carrito",module,Magento_Reports
 "In stock","En stock",module,Magento_Reports
 "Out of stock","Sin stock",module,Magento_Reports
 "Add to Wish List","Añadir a lista de deseos",module,Magento_Reports
@@ -9656,7 +9656,7 @@ Close,Cerrar,module,Magento_Sales
 "View All","Ver todo",module,Magento_Sales
 "Gift Message for This Order","Mensaje de regalo para este pedido",module,Magento_Sales
 "Recently Ordered","Recientemente ordenado",module,Magento_Sales
-"Add to Cart","Llévelo",module,Magento_Sales
+"Add to Cart","Añadir al carrito",module,Magento_Sales
 Search,Buscar,module,Magento_Sales
 "Credit memo for your %store_name order","Credit memo para su orden en %store_name",module,Magento_Sales
 "%name,","%nombre,",module,Magento_Sales
@@ -12688,7 +12688,7 @@ LocalizedException,"Excepción localizada",module,Magento_Wishlist
 "Add to Wish List","Añadir a la Lista de Deseos",module,Magento_Wishlist
 "View Product","Ver Producto",module,Magento_Wishlist
 Qty,Cantidad,module,Magento_Wishlist
-"Add to Cart","Llévelo",module,Magento_Wishlist
+"Add to Cart","Añadir al carrito",module,Magento_Wishlist
 Availability,Disponibilidad,module,Magento_Wishlist
 "In stock","En stock",module,Magento_Wishlist
 "Out of stock","Sin stock",module,Magento_Wishlist
